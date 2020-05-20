@@ -1,7 +1,7 @@
 This program doesn't required all the devices to run the program
 Running on only the server or host is enough for contact tracing
 
-Github Link : 
+Github Link : https://github.com/silentBlakezz/COVID-19-Symptom-analyzer-and-Contact-tracing-program.git
 
 This program has been developed by:
 1.Bikash Kalita
