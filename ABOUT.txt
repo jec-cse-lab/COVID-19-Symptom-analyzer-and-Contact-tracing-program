@@ -1,0 +1,24 @@
+This program doesn't required all the devices to run the program
+Running on only the server or host is enough for contact tracing
+
+Github Link : 
+
+This program has been developed by:
+1.Bikash Kalita
+-Jorhat Engineering College
+-Computer Science and Engineering
+-Batch : 2018-22
+
+2.Abhinab Dey
+-Jorhat Engineering College
+-Computer Science and Engineering
+-Batch : 2018-22
+
+3.Rituraj Pathak
+-Jorhat Engineering College
+-Computer Science and Engineering
+-Batch : 2018-22
+
+4.Hudson Vankal
+-Jorhat Engineering College
+-Computer Science and Engineering
